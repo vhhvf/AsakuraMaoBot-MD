@@ -7,14 +7,14 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  [' 201098906252 ', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹 👑 ', true],
-  ['201098906252', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹 💖', true],
-//  ['201098906252', 'E - 99👤', true],
-  ['+20 109 890 6252']]
+  [' 967771160204 ', '𓀂𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺𓀋 👑 ', true],
+  ['967771160204', '𓀂𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺𓀋 💖', true],
+//  ['967771160204', 'E - 99👤', true],
+  ['+967 730 348 571']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = [' 201098906252 '], 
+global.prems = [' 967771160204 '], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -24,7 +24,7 @@ global.prems = [' 201098906252 '],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = ar  //Idioma de ELGAZARBot, Ejemplo: es | en | pt...
+global.lenguajeGB = ar  //Idioma de EMPERORANUSBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -93,8 +93,8 @@ global.imagen1 = fs.readFileSync('./media/menus/Menu3.jpg')
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'ELGAZAR BOT 🧸'
-global.author = 'ELGAZAR-MD'
+global.packname = 'EMPERORANUS BOT 🧸'
+global.author = 'EMPERORANUS-MD'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -104,37 +104,37 @@ global.version = vs
 global.gt = 'ELGAZAR BOT'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.yt = 'https://youtube.com/@emperoranus7621'
 global.youtube = yt
 
-global.ig = 'https://www.tiktok.com/@q.r.a.n_0?_t=8YwfdTqNdDR&_r=1'
+global.ig = 'https://www.youtube.com/@fallingfalling1037'
 global.gatadiosig = ig
 
-global.md = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.md = 'https://youtube.com/@emperoranus7621'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
-global.nnagrupo = nna //UPDATE ELGAZAE BOT 
+global.nna = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
+global.nnagrupo = nna //UPDATE EMPERORANUS BOT 
 global.nna2 = 'IxeB9yBYrNp85CLmKykmMM'
 
-global.nn = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nn = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnn = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnngrupo = nnn //Grupo 2
-
-global.nnnt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+EMPERORANUS
+global.nnnt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnntt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnnttt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnntttgrupo = nnnttt //Grupo 5
-global.paypal = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.paypal = 'https://youtube.com/@emperoranus7621'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/201098906252' //
+global.asistencia = 'Wa.me/967771160204' //
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -168,8 +168,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = ' ELGAZAR-MD: ABDALLAH'
-global.igfg = 'ELGAZAR-MD'
+global.wm = ' EMPERORANUS-MD: ABDALLAH'
+global.igfg = 'EMPERORANUS-MD'
 global.wait = '*⌛ _جاري التحميل..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _جاري التحميل..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _جاري التحميل..._ ▬▬▬▬▭▭*'
